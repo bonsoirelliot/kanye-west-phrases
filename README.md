@@ -1,16 +1,13 @@
-# drink_reason
+# Reason To Drink By Kanye West
 
-A new Flutter project.
+Генерация фраз Канье Уэста с помощью [API](https://api.kanye.rest/)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![imageAlt](https://github.com/bonsoirelliot/images/blob/main/1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+Управление состоянием осуществляется с помощью `scoped_model`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+API возвращает json с полем `quote`, поэтому
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![imageAlt](https://github.com/bonsoirelliot/images/blob/main/2.jpg)
